@@ -2,7 +2,7 @@
 
 ## ——“百姓工程”开发商悲惨遭遇纪实
 
-- [**写在纪实之前--作者的话**]((https://jinhzh.github.io/index.html))
+- [**写在纪实之前------作者的话**](https://jinhzh.github.io/index.html)
 - [**序、人民的身世**](https://jinhzh.github.io/0.html)
 - [**一、“百姓工程”被非法查封8个月**](https://jinhzh.github.io/1.html)
 - [**二、息事宁人之情，枉法贪赃之疑**](https://jinhzh.github.io/2.html)
