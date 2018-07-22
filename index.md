@@ -2,33 +2,17 @@
 
 ## ——“百姓工程”开发商悲惨遭遇纪实
 
----
-
-<table>
-<tr>
-    <td colspan="2" style="text-align:center"><a href="https://jinhzh.github.io/0.html">序、人民的身世</a></td>
-</tr>
-<tr>
-    <td><a href="https://jinhzh.github.io/1.html">一、“百姓工程”被非法查封8个月</a></td>
-    <td><a href="https://jinhzh.github.io/2.html">二、息事宁人之情，枉法贪赃之疑</a></td>
-</tr>
-<tr>
-    <td><a href="https://jinhzh.github.io/3.html">三、规划变来变去，是善意还是诡计</a></td>
-    <td><a href="https://jinhzh.github.io/4.html">四、从补偿款不能兑现，看“政务”何其荒唐</a></td>
-</tr>
-<tr>
-    <td colspan="2"><a href="https://jinhzh.github.io/5.html">五、政府乱作为不作为导致债务剧增还帐无望，黑恶势力纷起</a></td>
-
-</tr>
-<tr>
-    <td><a href="https://jinhzh.github.io/6.html">六、公安机关的不作为与乱作为</a></td>
-    <td><a href="https://jinhzh.github.io/7.html">七、法院的不作为与乱作为</a></td>
-</tr>
-<tr>
-    <td><a href="https://jinhzh.github.io/8.html">八、关于责任人与“保护伞”</a></td>
-    <td><a href="https://jinhzh.github.io/9.html">九、良心未泯仁义在，利剑高悬我期待</a></td>
-</tr>
-</table>
+- [**写在纪实之前--作者的话**]((https://jinhzh.github.io/index.html))
+- [**序、人民的身世**](https://jinhzh.github.io/0.html)
+- [**一、“百姓工程”被非法查封8个月**](https://jinhzh.github.io/1.html)
+- [**二、息事宁人之情，枉法贪赃之疑**](https://jinhzh.github.io/2.html)
+- [**三、规划变来变去，是善意还是诡计**](https://jinhzh.github.io/3.html)
+- [**四、从补偿款不能兑现，看“政务”何其荒唐**](https://jinhzh.github.io/4.html)
+- [**五、政府乱作为不作为导致债务剧增还帐无望，黑恶势力纷起**](https://jinhzh.github.io/5.html)
+- [**六、公安机关的不作为与乱作为**](https://jinhzh.github.io/6.html)
+- [**七、法院的不作为与乱作为**](https://jinhzh.github.io/7.html)
+- [**八、关于责任人与“保护伞”**](https://jinhzh.github.io/8.html)
+- [**九、良心未泯仁义在，利剑高悬我期待**](https://jinhzh.github.io/9.html)
 
 ---
 
